@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.e8f59f71.chunk.css",
-    "main.js": "/static/js/main.7f68a7de.chunk.js",
-    "main.js.map": "/static/js/main.7f68a7de.chunk.js.map",
+    "main.css": "/static/css/main.1d927074.chunk.css",
+    "main.js": "/static/js/main.ed7b6b7f.chunk.js",
+    "main.js.map": "/static/js/main.ed7b6b7f.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.8077cd01.js",
     "runtime~main.js.map": "/static/js/runtime~main.8077cd01.js.map",
     "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
-    "static/js/2.b5137ab8.chunk.js": "/static/js/2.b5137ab8.chunk.js",
-    "static/js/2.b5137ab8.chunk.js.map": "/static/js/2.b5137ab8.chunk.js.map",
+    "static/js/2.a3454535.chunk.js": "/static/js/2.a3454535.chunk.js",
+    "static/js/2.a3454535.chunk.js.map": "/static/js/2.a3454535.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e2826cb4e4938bcff9f3fab4de0f238c.js": "/precache-manifest.e2826cb4e4938bcff9f3fab4de0f238c.js",
+    "precache-manifest.76fbeb47f78afda318851ab429c972a6.js": "/precache-manifest.76fbeb47f78afda318851ab429c972a6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
-    "static/css/main.e8f59f71.chunk.css.map": "/static/css/main.e8f59f71.chunk.css.map",
+    "static/css/main.1d927074.chunk.css.map": "/static/css/main.1d927074.chunk.css.map",
     "static/media/BOL.pdf": "/static/media/BOL.6bcd7050.pdf",
     "static/media/IMG_2598.jpg": "/static/media/IMG_2598.951e58e5.jpg",
     "static/media/TMS-Warehousefull.jpg": "/static/media/TMS-Warehousefull.5c265f8b.jpg",
@@ -39,7 +39,8 @@
     "static/media/laplaser.jpeg": "/static/media/laplaser.c7ebe3c0.jpeg",
     "static/media/laptops.jpeg": "/static/media/laptops.3a731f61.jpeg",
     "static/media/logo2.jpg": "/static/media/logo2.686adc19.jpg",
-    "static/media/miami-team.jpg": "/static/media/miami-team.67342797.jpg",
+    "static/media/miami-team-2.jpg": "/static/media/miami-team-2.88bec57d.jpg",
+    "static/media/miami-team-small.jpg": "/static/media/miami-team-small.a9f95184.jpg",
     "static/media/ourmission.png": "/static/media/ourmission.d7edde06.png",
     "static/media/poster.jpg": "/static/media/poster.f1cb15d1.jpg",
     "static/media/profile.jpg": "/static/media/profile.eca502d1.jpg",
@@ -64,7 +65,6 @@
     "static/media/warehouseTMStruck.jpeg": "/static/media/warehouseTMStruck.bef16c2f.jpeg",
     "static/media/warehouseflow.png": "/static/media/warehouseflow.6a7baf77.png",
     "static/media/warehousefork.jpg": "/static/media/warehousefork.43ded03a.jpg",
-    "static/media/warehouseteam.jpg": "/static/media/warehouseteam.20214ab0.jpg",
     "static/media/wh-3.png": "/static/media/wh-3.542e9106.png"
   }
 }
